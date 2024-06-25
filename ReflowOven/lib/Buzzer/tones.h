@@ -1,0 +1,4 @@
+#define NOTE_STARTUP 440
+#define NOTE_CLICK 1000
+
+#define NOTE_SECTION_DONE 1000
